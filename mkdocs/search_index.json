@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "ForgeMultiPart", 
+            "text": "ForgeMultiPart\n\n\nWelcome to the API documentation of ForgeMultiPart.", 
             "title": "Home"
         }, 
         {
             "location": "/#forgemultipart", 
-            "text": "", 
+            "text": "Welcome to the API documentation of ForgeMultiPart.", 
             "title": "ForgeMultiPart"
         }
     ]
